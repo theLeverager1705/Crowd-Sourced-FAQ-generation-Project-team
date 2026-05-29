@@ -32,8 +32,7 @@ To support rapid parallel development during our 3-Day Sprint, the repository is
 
 | Member | Role | Module & Task Assignment |
 |---|---|---|
-| **You (Team Lead)** | Architect / PM | Repository structure, API contracts, sequence architecture, and integration script. |
-| **Ganeshprabu BO** | Frontend Dev | Question submission form, FAQ display page |
+| **Ganeshprabu BO (Team Lead)** | Architect / PM / FE Dev | Repository structure, API contracts, sequence architecture, question submission form, and FAQ display page. |
 | **Mohd Warish** | Backend Dev | REST API, database schema, voting endpoints |
 | **Tejeswara Reddy** | AI/NLP Engineer | Semantic clustering, deduplication engine, LLM integration |
 | **Chaitanya Ram S** | Frontend Dev | Voting UI, community answer submission |
